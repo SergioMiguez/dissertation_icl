@@ -1,0 +1,67 @@
+Benchmark title: 1 Ubuntu LXC
+File: parallel_1_benchmarking_ubuntu.txt
+Samples: 50
+Average time: 5.98072
+Standard deviation: 0.19640804871491396
+Standard Error of the Mean (SEM): 0.027776292625186685
+Coefficient of interval with 95% confidence: 0.0544415335453659
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Benchmark title: 1 Alpine LXC
+File: parallel_1_benchmarking_alpine.txt
+Samples: 50
+Average time: 5.974600000000001
+Standard deviation: 0.20288617498489156
+Standard Error of the Mean (SEM): 0.028692438028163462
+Coefficient of interval with 95% confidence: 0.05623717853520038
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Benchmark title: 1 Debian LXC
+File: parallel_1_benchmarking_debian.txt
+Samples: 50
+Average time: 5.96122
+Standard deviation: 0.1563002610362504
+Standard Error of the Mean (SEM): 0.02210419489599203
+Coefficient of interval with 95% confidence: 0.04332422199614438
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Benchmark title: 1 Fedora LXC
+File: parallel_1_benchmarking_fedora.txt
+Samples: 50
+Average time: 5.979100000000001
+Standard deviation: 0.13654658545712525
+Standard Error of the Mean (SEM): 0.019310603304920335
+Coefficient of interval with 95% confidence: 0.03784878247764385
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Benchmark title: 2 Parallel LXC
+Single LXC benchmark
+
+File: parallel_2_benchmarking.txt
+Samples: 50
+Average time: 7.20334
+Standard deviation: 0.4984820803198445
+Standard Error of the Mean (SEM): 0.07049601185882785
+Coefficient of interval with 95% confidence: 0.13817218324330258
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Benchmark title: 3 Parallel LXC
+Single LXC benchmark
+
+File: parallel_3_benchmarking.txt
+Samples: 50
+Average time: 8.26198
+Standard deviation: 0.7634668686983083
+Standard Error of the Mean (SEM): 0.10797052001356665
+Coefficient of interval with 95% confidence: 0.21162221922659064
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Benchmark title: 4 Parallel LXC
+Single LXC benchmark
+
+File: parallel_4_benchmarking.txt
+Samples: 50
+Average time: 9.787040000000001
+Standard deviation: 1.5540213635597164
+Standard Error of the Mean (SEM): 0.21977180885636813
+Coefficient of interval with 95% confidence: 0.4307527453584815

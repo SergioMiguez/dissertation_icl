@@ -1,0 +1,478 @@
+trying to acquire lock...
+ OK
+trying to acquire lock...
+ OK
+
+real	0m7.800s
+user	0m8.889s
+sys	0m1.344s
+trying to acquire lock...
+ OK
+trying to acquire lock...
+ OK
+
+real	0m7.891s
+user	0m8.840s
+sys	0m1.434s
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+trying to acquire lock...
+ OK
+
+real	0m7.881s
+user	0m9.050s
+sys	0m1.415s
+trying to acquire lock...
+ OK
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m7.951s
+user	0m8.981s
+sys	0m1.404s
+trying to acquire lock...
+ OK
+trying to acquire lock...
+ OK
+trying to acquire lock...
+ OK
+
+real	0m7.841s
+user	0m8.897s
+sys	0m1.367s
+trying to acquire lock...
+ OK
+trying to acquire lock...
+ OK
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m7.836s
+user	0m8.972s
+sys	0m1.458s
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m8.116s
+user	0m8.955s
+sys	0m1.305s
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m8.209s
+user	0m8.937s
+sys	0m1.349s
+trying to acquire lock...
+ OK
+
+real	0m7.834s
+user	0m8.978s
+sys	0m1.413s
+trying to acquire lock...
+ OK
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m7.896s
+user	0m8.970s
+sys	0m1.394s
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+trying to acquire lock...
+ OK
+
+real	0m8.190s
+user	0m8.988s
+sys	0m1.399s
+trying to acquire lock...
+ OK
+
+real	0m7.913s
+user	0m8.947s
+sys	0m1.386s
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m7.987s
+user	0m9.127s
+sys	0m1.425s
+trying to acquire lock...
+ OK
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m7.894s
+user	0m8.910s
+sys	0m1.449s
+trying to acquire lock...
+ OK
+
+real	0m7.836s
+user	0m8.894s
+sys	0m1.440s
+trying to acquire lock...
+ OK
+trying to acquire lock...
+ OK
+
+real	0m7.901s
+user	0m8.898s
+sys	0m1.400s
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+trying to acquire lock...
+ OK
+
+real	0m8.026s
+user	0m8.959s
+sys	0m1.414s
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m7.850s
+user	0m8.874s
+sys	0m1.414s
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m7.923s
+user	0m8.903s
+sys	0m1.445s
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m7.857s
+user	0m8.907s
+sys	0m1.409s
+trying to acquire lock...
+ OK
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m7.854s
+user	0m8.881s
+sys	0m1.397s
+trying to acquire lock...
+ OK
+trying to acquire lock...
+ OK
+
+real	0m8.128s
+user	0m8.876s
+sys	0m1.380s
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+trying to acquire lock...
+ OK
+
+real	0m8.198s
+user	0m8.909s
+sys	0m1.429s
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m7.870s
+user	0m8.907s
+sys	0m1.368s
+trying to acquire lock...
+ OK
+trying to acquire lock...
+ OK
+
+real	0m8.155s
+user	0m8.908s
+sys	0m1.399s
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m7.995s
+user	0m8.874s
+sys	0m1.389s
+trying to acquire lock...
+ OK
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m7.844s
+user	0m8.856s
+sys	0m1.470s
+trying to acquire lock...
+ OK
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m7.884s
+user	0m8.989s
+sys	0m1.406s
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m7.845s
+user	0m8.897s
+sys	0m1.417s
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+trying to acquire lock...
+ OK
+trying to acquire lock...
+ OK
+
+real	0m7.869s
+user	0m8.876s
+sys	0m1.414s
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+trying to acquire lock...
+ OK
+trying to acquire lock...
+ OK
+
+real	0m7.744s
+user	0m8.894s
+sys	0m1.481s
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m7.852s
+user	0m8.906s
+sys	0m1.466s
+trying to acquire lock...
+ OK
+trying to acquire lock...
+ OK
+
+real	0m8.227s
+user	0m8.879s
+sys	0m1.431s
+trying to acquire lock...
+ OK
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m7.743s
+user	0m8.896s
+sys	0m1.432s
+trying to acquire lock...
+ OK
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m7.842s
+user	0m8.952s
+sys	0m1.447s
+trying to acquire lock...
+ OK
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m7.863s
+user	0m8.998s
+sys	0m1.397s
+trying to acquire lock...
+ OK
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m7.949s
+user	0m8.918s
+sys	0m1.433s
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m10.653s
+user	0m8.743s
+sys	0m1.433s
+trying to acquire lock...
+ OK
+trying to acquire lock...
+ OK
+
+real	0m9.451s
+user	0m8.877s
+sys	0m1.444s
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m8.837s
+user	0m8.872s
+sys	0m1.446s
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m7.897s
+user	0m8.864s
+sys	0m1.432s
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+trying to acquire lock...
+ OK
+
+real	0m7.913s
+user	0m8.970s
+sys	0m1.389s
+trying to acquire lock...
+ OK
+trying to acquire lock...
+ OK
+
+real	0m7.953s
+user	0m8.921s
+sys	0m1.421s
+trying to acquire lock...
+ OK
+trying to acquire lock...
+ OK
+
+real	0m7.905s
+user	0m8.921s
+sys	0m1.454s
+trying to acquire lock...
+ OK
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m7.951s
+user	0m8.923s
+sys	0m1.413s
+trying to acquire lock...
+ OK
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m7.861s
+user	0m8.914s
+sys	0m1.401s
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+trying to acquire lock...
+ OK
+trying to acquire lock...
+ OK
+
+real	0m7.870s
+user	0m9.027s
+sys	0m1.375s
+trying to acquire lock...
+ OK
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m11.610s
+user	0m8.690s
+sys	0m1.426s
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+trying to acquire lock...
+trying to acquire lock...
+ OK
+ OK
+
+real	0m8.434s
+user	0m8.809s
+sys	0m1.477s
+trying to acquire lock...
+ OK
+
+real	0m7.964s
+user	0m8.959s
+sys	0m1.392s

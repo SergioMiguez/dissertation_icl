@@ -1,0 +1,19 @@
+default-vlan: Main
+switches:
+  Switch-Main:
+    ip: 192.168.1.43
+    type: "TLSG105E"
+    username: admin
+    password: 
+    description: "Switch-Main"
+    default-vlan: Default
+    ports:
+      port1:
+      port2:
+      port3: 
+      port4:
+      port5:
+
+vlans:
+  Default:
+    vlan-id: 1

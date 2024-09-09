@@ -1,0 +1,76 @@
+default-vlan: General
+switches:
+  Switch-Main:
+    ip: 192.168.1.43
+    type: "TLSG105E"
+    username: admin
+    password: 
+    description: "Switch-Main"
+    default-vlan: General
+    ports:
+      port1:
+        description: "Router"
+        vlan: Default
+        type: untagged
+        untagged-vlan-id: 2
+        pvid: 2
+      # In the ideal case the following configuration would be used
+      # vlan General
+      # type: tagged
+      # tagged-vlan-ids: [3, 11, 13]
+      # pvid: 3
+      port2:
+        description: "Ubuntu Tower"
+        vlan: ProxIso3
+        type: untagged
+        untagged-vlan-id: 13
+        pvid: 13
+      port3: 
+        description: "Proxmox Tower"
+        vlan: ProxIso
+        type: tagged
+        tagged-vlan-ids: [2, 11, 13] # 14, 15
+        pvid: 11
+      port4:
+        description: "Additional RJ45"
+        vlan: ProxIso
+        type: tagged
+        untagged-vlan-id: 11
+        pvid: 11
+      port5:
+        description: "Printer"
+        vlan: General
+        type: untagged
+        untagged-vlan-id: 3
+        pvid: 3
+
+vlans:
+  # Not in use
+  Default:
+    vlan-id: 1
+  # Provides internet
+  Internet:
+    vlan-id: 2
+  # Contain all devices
+  General:
+    vlan-id: 3
+  # Other departments
+  # DepartmentA:
+  #   vlan-id: 4
+  # DepartmentB:
+  #   vlan-id: 5
+
+  # Proxmox isolation
+  ProxIso:
+    vlan-id: 11
+  
+  # Isolation of General and Departments
+  ProxIso3:
+    vlan-id: 13
+  # ProxIso4:
+  #   vlan-id: 14
+  # ProxIso5:
+  #   vlan-id: 15
+  
+
+

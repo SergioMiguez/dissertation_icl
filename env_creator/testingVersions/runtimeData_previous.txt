@@ -1,0 +1,25 @@
+File: raw_benchmark
+Samples: 50
+Average time: 19.27108
+Standard deviation: 0.781024169664422
+Standard Error of the Mean (SEM): 0.11045349732806108
+Coefficient of interval with 95% confidence: 0.2164888547629997
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+File: p_start_benchmark
+Samples: 50
+Average time: 12.32568
+Standard deviation: 2.62113343758001
+Standard Error of the Mean (SEM): 0.37068424562152624
+Coefficient of interval with 95% confidence: 0.7265411214181914
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+File: p_clone_start_benchmark
+Samples: 50
+Average time: 8.11586
+Standard deviation: 0.6821821753754638
+Standard Error of the Mean (SEM): 0.09647512844251621
+Coefficient of interval with 95% confidence: 0.18909125174733177
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

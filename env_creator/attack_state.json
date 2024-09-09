@@ -1,0 +1,9 @@
+{
+    "created_vlans":[3],
+    "attackers":[
+        {
+            "attacker": "",
+            "affected_ips" : []
+        }
+    ]    
+}

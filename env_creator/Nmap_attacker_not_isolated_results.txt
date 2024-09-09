@@ -1,0 +1,59 @@
+# Nmap 7.94SVN scan initiated Sun Aug 25 05:10:19 2024 as: nmap -F -O -T5 -n --max-retries 5 --host-timeout 15m --scan-delay 0 -oN not_isolated 192.168.1.0/24
+Nmap scan report for 192.168.1.43
+Host is up (0.0040s latency).
+Not shown: 99 filtered tcp ports (no-response)
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 28:EE:52:E4:25:46 (TP-Link Technologies)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: router|printer
+Running (JUST GUESSING): HP embedded (91%), Ricoh embedded (91%), Brother embedded (89%), Adtran embedded (85%)
+OS CPE: cpe:/h:hp:procurve_7102dl cpe:/h:ricoh:aficio_sp_c240sf cpe:/h:brother:mfc-7820n cpe:/h:adtran:netvanta_3430 cpe:/h:adtran:netvanta_1224r
+Aggressive OS guesses: HP ProCurve Secure Router 7102dl (91%), Ricoh Aficio SP C240SF printer (91%), Brother MFC-7820N printer (89%), Adtran NetVanta 1224R or 3430 router (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+Nmap scan report for 192.168.1.51
+Host is up (0.0024s latency).
+Not shown: 93 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+139/tcp  open  netbios-ssn
+443/tcp  open  https
+445/tcp  open  microsoft-ds
+631/tcp  open  ipp
+8080/tcp open  http-proxy
+9100/tcp open  jetdirect
+MAC Address: 98:4B:E1:85:4B:8A (Hewlett Packard)
+Device type: general purpose|printer|VoIP adapter
+Running: Wind River VxWorks, HP embedded, Vocality embedded
+OS CPE: cpe:/o:windriver:vxworks
+OS details: VxWorks: HP printer or Vocality BASICS Four Wire VoIP gateway
+Network Distance: 1 hop
+
+Nmap scan report for 192.168.1.104
+Host is up (0.00060s latency).
+Not shown: 99 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: A0:4A:5E:E2:36:A1 (Microsoft)
+Device type: general purpose
+Running: Linux 4.X|5.X
+OS CPE: cpe:/o:linux:linux_kernel:4 cpe:/o:linux:linux_kernel:5
+OS details: Linux 4.15 - 5.8
+Network Distance: 1 hop
+
+Nmap scan report for 192.168.1.220
+Host is up (0.00011s latency).
+Not shown: 98 closed tcp ports (reset)
+PORT     STATE    SERVICE
+22/tcp   open     ssh
+8000/tcp filtered http-alt
+Device type: general purpose
+Running: Linux 2.6.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6.32
+OS details: Linux 2.6.32
+Network Distance: 0 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Aug 25 05:10:28 2024 -- 256 IP addresses (5 hosts up) scanned in 9.84 seconds

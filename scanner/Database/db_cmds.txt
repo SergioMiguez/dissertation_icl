@@ -1,0 +1,41 @@
+sqlite3 networkDevices.db
+
+
+CREATE TABLE devices (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    ip_address TEXT NOT NULL,
+    device_name TEXT NOT NULL,
+    vlan INTEGER NOT NULL,
+    operating_system TEXT NOT NULL,
+    distribution TEXT
+);
+
+
+
+INSERT INTO devices (ip_address, device_name, vlan, operating_system, distribution) 
+VALUES ('192.168.1.1',   'Router Askey RTF8225VW', 1, 'Linux', ''),
+       ('192.168.1.43',  'TP-Link TL-SG105E Switch', 1, 'Linux', ''),
+       ('192.168.1.236', 'Proxmox Scanner LXC', 2, 'Linux', 'Ubuntu'),
+       ('192.168.1.233', 'PC 1 - Proxmox Server', 3, 'Linux', ''),
+       ('192.168.1.220', 'PC 2 - Attacker Device', 2, 'Linux', 'Ubuntu'),
+       ('192.168.1.230', 'Docker Server - VPN & webservers', 1, 'Linux', 'Ubuntu'),
+       ('192.168.1.221', 'Debian Server', 2, 'Linux', 'Debian'),
+       ('192.168.1.33',  'Person A Desktop 2', 2,'Windows', '10'),
+       ('192.168.1.37',  'Person A Desktop 1', 1, 'Windows', '11'),
+       ('192.168.1.54',  'Person A Phone', 1, 'Android', '13'),
+       ('192.168.1.51',  'Person B Desktop', 1, 'Windows', '11'),
+       ('192.168.1.32',  'Person B Phone', 1, 'IOS', '17'),
+       ('192.168.1.50',  'Person C Desktop', 1, 'Windows', '11'),
+       ('192.168.1.49',  'Person C Phone', 1, 'Android', '12'),
+       ('192.168.1.46',  'Person D Desktop', 2, 'Windows', '10'),
+       ('192.168.1.42',  'Person D Phone', 1, 'Andoid', '14'),
+       ('192.168.1.44',  'Chromecast', 1, 'Linux', ''),
+       ('192.168.1.53',  'TP-Link Livingroom Extender', 1, 'Linux', ''),
+       ('192.168.1.34',  'Smart Plug', 1, 'Linux', ''),
+       ('192.168.1.200', 'TV Decoder', 1, 'Linux', ''),
+       ('192.168.0.139', 'Printer HP', 2, 'Linux', '');
+
+
+
+
+SELECT * FROM devices;

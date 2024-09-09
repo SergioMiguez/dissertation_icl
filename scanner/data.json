@@ -1,0 +1,229 @@
+{
+    "Devices": [
+        {
+            "ip": "192.168.1.44",
+            "os": [
+                {
+                    "name": "Android 6.0 - 7.1.2 (Linux 3.18 - 4.4.1)",
+                    "probability": "98"
+                },
+                {
+                    "name": "Android 5.0 - 7.0 (Linux 3.4 - 3.10)",
+                    "probability": "97"
+                },
+                {
+                    "name": "Linux 2.6.32",
+                    "probability": "96"
+                },
+                {
+                    "name": "Linux 3.2 - 4.9",
+                    "probability": "96"
+                },
+                {
+                    "name": "Linux 2.6.32 - 3.10",
+                    "probability": "96"
+                },
+                {
+                    "name": "Android 5.0 - 6.0.1 (Linux 3.4)",
+                    "probability": "96"
+                },
+                {
+                    "name": "Linux 3.2",
+                    "probability": "96"
+                },
+                {
+                    "name": "Android 7.1.1 - 7.1.2",
+                    "probability": "95"
+                },
+                {
+                    "name": "Linux 3.2 - 3.16",
+                    "probability": "95"
+                },
+                {
+                    "name": "Linux 3.1",
+                    "probability": "95"
+                }
+            ]
+        },
+        {
+            "ip": "192.168.1.121",
+            "os": [
+                {
+                    "name": "Linux 2.6.32",
+                    "probability": "96"
+                },
+                {
+                    "name": "Linux 3.2 - 4.9",
+                    "probability": "96"
+                },
+                {
+                    "name": "Linux 4.15 - 5.8",
+                    "probability": "96"
+                },
+                {
+                    "name": "Linux 2.6.32 - 3.10",
+                    "probability": "96"
+                },
+                {
+                    "name": "Linux 5.0 - 5.5",
+                    "probability": "96"
+                },
+                {
+                    "name": "Linux 3.4 - 3.10",
+                    "probability": "95"
+                },
+                {
+                    "name": "Linux 3.1",
+                    "probability": "95"
+                },
+                {
+                    "name": "Linux 3.2",
+                    "probability": "95"
+                },
+                {
+                    "name": "AXIS 210A or 211 Network Camera (Linux 2.6.17)",
+                    "probability": "95"
+                },
+                {
+                    "name": "Synology DiskStation Manager 5.2-5644",
+                    "probability": "94"
+                }
+            ]
+        },
+        {
+            "ip": "192.168.1.230",
+            "os": [
+                {
+                    "name": "Linux 2.6.32",
+                    "probability": "96"
+                },
+                {
+                    "name": "Linux 3.2 - 4.9",
+                    "probability": "96"
+                },
+                {
+                    "name": "Linux 2.6.32 - 3.10",
+                    "probability": "96"
+                },
+                {
+                    "name": "Linux 4.15 - 5.8",
+                    "probability": "96"
+                },
+                {
+                    "name": "Linux 5.3 - 5.4",
+                    "probability": "96"
+                },
+                {
+                    "name": "Linux 5.0 - 5.5",
+                    "probability": "95"
+                },
+                {
+                    "name": "LG Bp430 Blu-ray Player",
+                    "probability": "95"
+                },
+                {
+                    "name": "Linux 3.1",
+                    "probability": "95"
+                },
+                {
+                    "name": "Linux 3.2",
+                    "probability": "95"
+                },
+                {
+                    "name": "AXIS 210A or 211 Network Camera (Linux 2.6.17)",
+                    "probability": "95"
+                }
+            ]
+        },
+        {
+            "ip": "192.168.1.233",
+            "os": [
+                {
+                    "name": "Linux 2.6.32",
+                    "probability": "96"
+                },
+                {
+                    "name": "Linux 3.2 - 4.9",
+                    "probability": "96"
+                },
+                {
+                    "name": "Linux 4.15 - 5.8",
+                    "probability": "96"
+                },
+                {
+                    "name": "Linux 2.6.32 - 3.10",
+                    "probability": "96"
+                },
+                {
+                    "name": "Linux 5.0 - 5.5",
+                    "probability": "96"
+                },
+                {
+                    "name": "Linux 3.4 - 3.10",
+                    "probability": "95"
+                },
+                {
+                    "name": "Linux 3.1",
+                    "probability": "95"
+                },
+                {
+                    "name": "Linux 3.2",
+                    "probability": "95"
+                },
+                {
+                    "name": "AXIS 210A or 211 Network Camera (Linux 2.6.17)",
+                    "probability": "95"
+                },
+                {
+                    "name": "Synology DiskStation Manager 5.2-5644",
+                    "probability": "94"
+                }
+            ]
+        },
+        {
+            "ip": "192.168.1.1",
+            "os": [
+                {
+                    "name": "Linux 3.10 - 4.11",
+                    "probability": "98"
+                },
+                {
+                    "name": "Linux 4.4",
+                    "probability": "95"
+                },
+                {
+                    "name": "Linux 3.2 - 4.9",
+                    "probability": "94"
+                },
+                {
+                    "name": "DD-WRT v24 or v30 (Linux 3.10)",
+                    "probability": "93"
+                },
+                {
+                    "name": "Asus RT-AC66U WAP",
+                    "probability": "93"
+                },
+                {
+                    "name": "Android 4.1.1",
+                    "probability": "92"
+                },
+                {
+                    "name": "Android 4.2.2 (Linux 3.4)",
+                    "probability": "92"
+                },
+                {
+                    "name": "Linux 4.1",
+                    "probability": "92"
+                },
+                {
+                    "name": "Linux 3.18 (OpenWrt)",
+                    "probability": "92"
+                },
+                {
+                    "name": "HP P2000 G3 NAS device",
+                    "probability": "91"
+                }
+            ]
+        }
+    ]
+}

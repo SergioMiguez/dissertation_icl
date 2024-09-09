@@ -1,0 +1,24 @@
+File: raw_benchmark
+Samples: 56
+Average time: 5.597892857142857
+Standard deviation: 0.24228648026748867
+Standard Error of the Mean (SEM): 0.032376892807439564
+Coefficient of interval with 95% confidence: 0.06345870990258154
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+File: join_prox_attacker_benchmark
+Samples: 59
+Average time: 5.60628813559322
+Standard deviation: 0.19779102572977333
+Standard Error of the Mean (SEM): 0.025750198241539304
+Coefficient of interval with 95% confidence: 0.05047038855341703
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+All times
+Samples: 115
+Average time: 5.602200000000002
+Standard deviation: 0.22062232927315642
+Standard Error of the Mean (SEM): 0.02057313828523961
+Coefficient of interval with 95% confidence: 0.04032335103906964

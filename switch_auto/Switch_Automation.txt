@@ -1,0 +1,7 @@
+Using project: https://github.com/Manawyrm/switchconf 
+Author: Manawyrm
+
+In case of testing the project, please clone Manawyrm's repository inside the current path. 
+Uncomment the switch configuration to be set in .vscode folder and use the debug option form switchconf.py file to run.
+
+Don't forget to add your switch's credentials in the yaml files.
